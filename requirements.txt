@@ -1,0 +1,6 @@
+# This project uses only the Python 3 standard library by default.
+# No packages are required to run the tracker or the unit tests.
+#
+# Optional: uncomment the line below if you want live market prices
+# instead of the sample stock_prices.csv dataset.
+# yfinance>=0.2.40
